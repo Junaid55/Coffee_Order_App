@@ -16,6 +16,7 @@ import java.text.NumberFormat;
 
 public class MainActivity extends AppCompatActivity
 {
+    //global variables
     int quantity=2;
     String name;
     String priceMessage;
